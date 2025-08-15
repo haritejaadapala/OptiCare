@@ -3,6 +3,9 @@
 
 OptiCare is an AI-powered, Telegram-integrated assistant designed to monitor keratoplasty (corneal transplant) patients post-surgery. It ensures timely symptom reporting, intelligent follow-ups, and empathetic patient engagement. The agent is optimized for both patients and clinicians, providing real-time insights and tracking recovery progress while reducing the risk of complications.
 
+# 📹 Video Recording of Demo and Code Review
+https://drive.google.com/file/d/1EYXKsmqpupAGbDNqITQZ4gJ-nGQ1K3tv/view?usp=drive_link
+
 This project blends AI, conversational empathy, and retrieval-augmented generation (RAG) to deliver a supportive and clinically valuable recovery assistant.
 
 # ✨ Key Features
