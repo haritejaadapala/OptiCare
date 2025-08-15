@@ -1,7 +1,7 @@
-# KeraVision – AI-Powered Keratoplasty Patient Monitoring Agent
+# OptiCare – AI-Powered Keratoplasty Patient Monitoring Agent
 # 📌 Overview
 
-KeraVision is an AI-powered, Telegram-integrated assistant designed to monitor keratoplasty (corneal transplant) patients post-surgery. It ensures timely symptom reporting, intelligent follow-ups, and empathetic patient engagement. The agent is optimized for both patients and clinicians, providing real-time insights and tracking recovery progress while reducing the risk of complications.
+OptiCare is an AI-powered, Telegram-integrated assistant designed to monitor keratoplasty (corneal transplant) patients post-surgery. It ensures timely symptom reporting, intelligent follow-ups, and empathetic patient engagement. The agent is optimized for both patients and clinicians, providing real-time insights and tracking recovery progress while reducing the risk of complications.
 
 This project blends AI, conversational empathy, and retrieval-augmented generation (RAG) to deliver a supportive and clinically valuable recovery assistant.
 
@@ -63,8 +63,8 @@ This project blends AI, conversational empathy, and retrieval-augmented generati
 
 
 2️⃣ Installation
-git clone https://github.com/<your-username>/KeraVision.git
-cd KeraVision
+git clone https://github.com/<your-username>/OptiCare.git
+cd OptiCare
 
 
 3️⃣ Environment Setup
